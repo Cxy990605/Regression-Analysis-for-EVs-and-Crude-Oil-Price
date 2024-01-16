@@ -1,1 +1,15 @@
-FHGFGFG
+How and Where I extract the data?
+
+1. API Key
+OXY_stock.csv (from NASDAQ)
+api_key='wCgHNXA4XE-naxGvQt6X' URL:https://data.nasdaq.com/api/v3/datasets/WIKI/OXY/data.json?start_date=2015-01-01&end_date=2018-03-27&order=asc&column_index=4&api_key=wCgHNXA4XE-naxGvQt6X
+Click on the URL provided above to get private api_key, which should be included in theOXY_Stock_Price.py file for web-scraping. Using the requests library and .json(), create a data set
+called OXY_stock.csv. 
+
+wti_spot_price.csv (from EIA)
+api_key ='vT2MbTCiEVzdJdsxQe1VVKxVBsmwrgbJroVhrDxc' URL:https://api.eia.gov/series/?api_key=vT2MbTCiEVzdJdsxQe1VVKxVBsmwrgbJroVhrDxc&series _id=PET.RWTC.W
+
+2. Web Scraper
+car_sales.csv
+URL: https://insideevs.com/news/344007/monthly-plug-in-ev-sales-scorecard-historical-charts/
+In EV_sales. Py file, using requests and beautifulsoup library to prettify the html text, and the findthe content in <td>. Use the for loop get the 2018 data and create a data set called car_sales.csv
