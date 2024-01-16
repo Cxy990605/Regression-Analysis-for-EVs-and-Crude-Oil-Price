@@ -1,0 +1,9 @@
+# 1.Data preparation: based on the different sources of data fetched, the format is various. Sort those data sets into the same column names and formats;
+# 2.Combine data sets wti_spot_price.csv and OXY_stock.csv, and then find whether there exists a (strong) relationship between them, via Simple Linear Regression Model, correlation check, Moving Average Model. Fetch two more stock data,tickers as ‘CVX’ and ‘ALB’, for further exploration.
+# 3.Includes data set car_sales.csv for regression model analysis. Do the data preparation again to match the car_sales.csv timeslot and format. Apply linear and multiple regression model. Set monthly car_sales as Y, OXY price and WTI price as two predictors. Fit the model to check whether the two predictors perform well on the Y (car sales).
+# 4.Web_scrape for one more data sets- 2017 wti_spot_price - to create a multi-index table, in order to compare the sales of the same car model in different years.
+
+## Conclusion ##
+# 1.The relationship between OXY and WTI is weak
+# 2.Neither linear regression model nor multiple regression model perform well on predicting car sales. (Details in multiple regression model summary table's cell)
+# 3.In general, electric vehicles sales in 2018 is higher than that of in 2017.
