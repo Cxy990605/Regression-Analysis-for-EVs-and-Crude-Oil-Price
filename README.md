@@ -22,10 +22,12 @@
 ---
 Data Sources:
 
-* OXY_stock.csv(from NASDAQ)[^1]
-**api_key ='vT2MbTCiEVzdJdsxQe1VVKxVBsmwrgbJroVhrDxc'**
-* wti_spot_price.csv (from EIA)[^2]
-**api_key ='vT2MbTCiEVzdJdsxQe1VVKxVBsmwrgbJroVhrDxc'**
+* **OXY_stock.csv** (from NASDAQ)[^1]  
+api_key ='wCgHNXA4XE-naxGvQt6X'  
+* **wti_spot_price.csv** (from EIA)[^2]  
+api_key ='vT2MbTCiEVzdJdsxQe1VVKxVBsmwrgbJroVhrDxc'
+* car_sales.csv[^3]
+
 
 ---
 Notes:
@@ -34,4 +36,5 @@ Notes:
 
 
 [^1]: <https://data.nasdaq.com/api/v3/datasets/WIKI/OXY/data.json?start_date=2015-01-01&end_date=2018-03-27&order=asc&column_index=4&api_key=wCgHNXA4XE-naxGvQt6X>
-[^2]: <:https://api.eia.gov/series/?api_key=vT2MbTCiEVzdJdsxQe1VVKxVBsmwrgbJroVhrDxc&series_id=PET.RWTC.W>    
+[^2]: <https://api.eia.gov/series/?api_key=vT2MbTCiEVzdJdsxQe1VVKxVBsmwrgbJroVhrDxc&series_id=PET.RWTC.W>    
+[^3]: <https://insideevs.com/news/344007/monthly-plug-in-ev-sales-scorecard-historical-charts/>
