@@ -20,17 +20,19 @@
 
 
 ---
-Data Sources:
+* **Data Sources**
 
-* **OXY_stock.csv** (from NASDAQ)[^1]  
+> OXY_stock.csv (from NASDAQ)[^1]  
 api_key ='wCgHNXA4XE-naxGvQt6X'  
-* **wti_spot_price.csv** (from EIA)[^2]  
-api_key ='vT2MbTCiEVzdJdsxQe1VVKxVBsmwrgbJroVhrDxc'
-* car_sales.csv[^3]
+
+> wti_spot_price.csv (from EIA)[^2]  
+api_key ='vT2MbTCiEVzdJdsxQe1VVKxVBsmwrgbJroVhrDxc'  
+
+> car_sales.csv[^3]  
 
 
 ---
-Notes:
+* **Notes**
 1. WTI crude oil price is an international crude oil transaction benchmark.
 2. OXY, Occidental Petroleum Corporation, is a company engaged in hydrocarbon exploration and petrochemical manufacturing.
 
