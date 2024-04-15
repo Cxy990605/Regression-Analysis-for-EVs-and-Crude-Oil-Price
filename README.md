@@ -5,18 +5,18 @@
 
 ---
 * **Data Visualization**
-  > Moving Average Model for the crude oil price
-<img width="714" alt="Screen Shot 2024-04-14 at 12 51 30 AM" src="https://github.com/Cxy990605/Regression-Analysis-for-EVs-and-Crude-Oil-Price/assets/99168940/edda93ac-61c3-4504-b312-a62c930b50d8">
+> Moving Average Model for the crude oil price
+<img width="714" alt="Screen Shot 2024-04-14 at 12 51 30 AM" src="https://github.com/Cxy990605/Regression-Analysis-for-EVs-and-Crude-Oil-Price/assets/99168940/edda93ac-61c3-4504-b312-a62c930b50d8">  
 
   > Regression Model for OXY and WTI crude oil price
-  <img width="495" alt="Screen Shot 2024-04-14 at 12 51 20 AM" src="https://github.com/Cxy990605/Regression-Analysis-for-EVs-and-Crude-Oil-Price/assets/99168940/87530efb-4bad-43f2-a5fb-e27aced69bc8">
+  <img width="495" alt="Screen Shot 2024-04-14 at 12 51 20 AM" src="https://github.com/Cxy990605/Regression-Analysis-for-EVs-and-Crude-Oil-Price/assets/99168940/87530efb-4bad-43f2-a5fb-e27aced69bc8">  
 
   > Regression Model for EVs sales and crude oil price
-  <img width="644" alt="Screen Shot 2024-04-14 at 12 59 39 AM" src="https://github.com/Cxy990605/Regression-Analysis-for-EVs-and-Crude-Oil-Price/assets/99168940/97f8f1de-8c5e-4173-82cf-94dbf5e1d47c">
+  <img width="644" alt="Screen Shot 2024-04-14 at 12 59 39 AM" src="https://github.com/Cxy990605/Regression-Analysis-for-EVs-and-Crude-Oil-Price/assets/99168940/97f8f1de-8c5e-4173-82cf-94dbf5e1d47c">  
 
   
   > Multi-index Table for EVs
-  <img width="716" alt="Screen Shot 2024-04-14 at 12 58 30 AM" src="https://github.com/Cxy990605/Regression-Analysis-for-EVs-and-Crude-Oil-Price/assets/99168940/c3c45765-fcdb-4631-9298-3417b1f7c308">
+  <img width="716" alt="Screen Shot 2024-04-14 at 12 58 30 AM" src="https://github.com/Cxy990605/Regression-Analysis-for-EVs-and-Crude-Oil-Price/assets/99168940/c3c45765-fcdb-4631-9298-3417b1f7c308">  
 
 
 ---
